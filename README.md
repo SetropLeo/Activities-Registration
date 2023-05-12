@@ -17,9 +17,9 @@
 <table>
 <tr>
   <th>Tela Inicial</th>
-  <th>Listagem de reservas</th>
-  <th>Adição de Reservas</th>
-  <th>Edição de Reserva</th>
+  <th>Listagem de atividades</th>
+  <th>Adição de Atividade</th>
+  <th>Edição de Atividade</th>
   </tr>
   <tr>
     <td><img src="./src/base/index.jpg"/></td>
